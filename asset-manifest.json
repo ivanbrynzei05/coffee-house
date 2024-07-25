@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/coffee-house/static/js/main.3a20d04c.js",
+    "static/media/background.png": "/coffee-house/static/media/background.7cf53156d259a594fe12.png",
+    "static/media/background-banner1.png": "/coffee-house/static/media/background-banner1.43f550f050898624156f.png",
+    "static/media/background-banner.png": "/coffee-house/static/media/background-banner.c683eef17405a0b35f41.png",
+    "static/media/hero.jpg": "/coffee-house/static/media/hero.fd3adb4037c911a51fde.jpg",
+    "static/media/about-our-beans.jpg": "/coffee-house/static/media/about-our-beans.bb6db34750e4b1358d7d.jpg",
+    "static/media/coffee1.png": "/coffee-house/static/media/coffee1.21d6839156cadbd09ac4.png",
+    "static/media/coffee.jpg": "/coffee-house/static/media/coffee.5b3381ab1d5e5fb1e238.jpg",
+    "static/media/logo.svg": "/coffee-house/static/media/logo.e8985481f22db336629be24889cd820f.svg",
+    "static/media/logo-dark.svg": "/coffee-house/static/media/logo-dark.b203ac4aa243222ebe7fda99b2c78a55.svg",
+    "static/media/beans-logo.svg": "/coffee-house/static/media/beans-logo.d8ad06a77a7f633d0c2a9736d6fb4634.svg",
+    "static/media/beans-logo-dark.svg": "/coffee-house/static/media/beans-logo-dark.023b976cf584c92cb61afe5c82a0d35f.svg",
+    "index.html": "/coffee-house/index.html",
+    "main.3a20d04c.js.map": "/coffee-house/static/js/main.3a20d04c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3a20d04c.js"
+  ]
+}
